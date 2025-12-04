@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Legendas de Música",
+  "description": "Crie legendas em formato SRT para músicas. Importe uma música, e a IA irá transcrever as letras e sincronizar o tempo, gerando um arquivo SRT.",
+  "requestFramePermissions": []
+}
